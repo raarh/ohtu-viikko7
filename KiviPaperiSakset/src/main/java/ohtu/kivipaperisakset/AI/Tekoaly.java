@@ -2,7 +2,7 @@ package ohtu.kivipaperisakset.AI;
 
 public class Tekoaly implements AI{
 
-    int siirto;
+    private int siirto;
     private String siirrot[] = {"k","p","s"};
     public Tekoaly() {
         siirto = 0;

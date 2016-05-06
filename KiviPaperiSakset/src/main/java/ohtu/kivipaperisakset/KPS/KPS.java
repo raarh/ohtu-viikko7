@@ -27,13 +27,13 @@ abstract class KPS implements Ikps{
     protected void tuomariKirjaaSiirrot(){
         tuomari.kirjaaSiirto(ekanSiirto, tokanSiirto);
     }
-    private static boolean onkoOkSiirto(String siirto) {
-        return "k".equals(siirto) || "p".equals(siirto) || "s".equals(siirto);
-    }
+
     protected boolean ovatkoSiirrotOK(){
         return onkoOkSiirto(ekanSiirto) && onkoOkSiirto(tokanSiirto);
     }
-
+    private static boolean onkoOkSiirto(String siirto) {
+        return "k".equals(siirto) || "p".equals(siirto) || "s".equals(siirto);
+    }
 
     protected void lueSiirrot(){
         lueEnsimmaisenPelaajanSiirrot();
