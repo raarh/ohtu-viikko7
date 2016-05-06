@@ -31,8 +31,6 @@ public class KPSTekoaly extends KPS {
         tulostaTuomari("Kiitos!");
 
     }
-
-
     @Override
     protected void lueEnsimmaisenPelaajanSiirrot(){
         System.out.print("Ensimmäisen pelaajan siirto: ");
