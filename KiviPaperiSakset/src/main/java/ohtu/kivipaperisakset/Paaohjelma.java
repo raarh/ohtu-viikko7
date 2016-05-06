@@ -2,8 +2,6 @@ package ohtu.kivipaperisakset;
 
 import ohtu.kivipaperisakset.KPS.Ikps;
 import ohtu.kivipaperisakset.KPS.KPSFactory;
-import ohtu.kivipaperisakset.KPS.KPSParempiTekoaly;
-import ohtu.kivipaperisakset.KPS.KPSTekoaly;
 
 
 import java.util.Scanner;
