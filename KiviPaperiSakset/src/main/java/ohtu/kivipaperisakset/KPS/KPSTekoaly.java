@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class KPSTekoaly extends KPS {
 
     public KPSTekoaly(){
-        this(new Scanner(System.in),new Tuomari(),new Tekoaly());
+        this(new Tekoaly());
     }
     public KPSTekoaly(AI ai){
         this(new Scanner(System.in), new Tuomari(), ai);
