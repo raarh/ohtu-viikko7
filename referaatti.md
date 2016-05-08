@@ -1,0 +1,5 @@
+#Ryhmätyö ohjelmistokehityksessä, referaatti
+
+Tutkielman mukaan ohjelmistoprojektissa tarvitaan monenlaisia taitoja. Ryhmätyön ansiosta yksilön ei tarvitse osata kaikkia asioita. Kehittäjien välinen yhteistyö riippuu personalisuudesta ja luonteenpiirteistä. Ryhmätyöskentelyä voi harjoitella. Tekstissä kuvaillaan personalisuuden piirteitä Myers-Briggsin tyyppi-indikaattorilla. Lisäksi esitellään ketteristä mentelmistä Extreme Programming (XP) ja Scrum. XP:stä esitellään myös pariohjelmointi.
+
+Ketterissä menetelmissä painotetaan yksilöiden toimintaa ja yhteistyötä toimivan ohjelmiston tuottamiseksi. Tiimit ovat itseohjautuvia, eikä niillä ole erillistä johtajaa. XP:ssä kommunikoinnin tärkeyttä painotetaan järjestelmällä tiimin jäsenet samaan tilaan. Lisäksi asiakas on läsnä, jotta kommunikointi on helppoa. Scrumissa tiimi koostuu monitaitoisista jäsenistä. Scrum tiimissä ei ole erillistä johtajaa, mutta yhden jäsenen rooli on scrum master ja hän valvoo, että tiimi noudattaa scrum prosessia ja, että ulkopuoliset eivät häiritse tiimiä. Scrumissa on ajastettuja palaverije sprintin varrelle.
